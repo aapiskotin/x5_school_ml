@@ -133,3 +133,11 @@ dmypy.json
 
 # MacOS specific
 .DS_Store
+
+# No data files
+*.csv
+*.txt
+*.zip
+
+# Pickled cache
+*.pkl
